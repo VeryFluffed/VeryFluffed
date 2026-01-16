@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello! 🐧
 
-<!--
-**VeryFluffed/VeryFluffed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danh, a Mechanical Engineering Cal Poly Pomona Student aspiring to be Robotics Engineer.
 
-Here are some ideas to get you started:
+I am currently a Control Systems Engineer Intern: designing, modeling, and fabricating a 5-fingered manipulator robotic arm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I think or see something cool, chances are I will build it.
+
+I love combining software, electrical, and mechanical aspects to create a tangible project I can interact with every day.
+
+My main tools are SolidWorks CAD, PCB Designer Altium, and VS Code. My main languages are C++, Python, and MATLAB.
+
+I started making projects in 2025, and they are listed in my [LinkedIn](https://danhtran.org/)!
+
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/danhctran/)!
+
+Fun Facts:
+• I want cats (please)
+• Coffee wakes me up by making me shit myself
+• I think about how to build IRL things in Minecraft
+• Hobbies: gaming, hiking, building
