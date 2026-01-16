@@ -16,6 +16,6 @@ Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/danhctran/
 
 Fun Facts:<br>
 • I want cats (please)<br>
-• Coffee wakes me up by making me shit myself<br>
+• Coffee wakes me up by making me poo myself<br>
 • I think about how to build IRL things in Minecraft<br>
 • Hobbies: gaming, hiking, building
