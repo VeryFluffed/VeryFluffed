@@ -15,7 +15,7 @@ I started making projects in 2025, and they are listed in my [LinkedIn](https://
 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/danhctran/)!
 
 Fun Facts:
-• I want cats (please)
-• Coffee wakes me up by making me shit myself
-• I think about how to build IRL things in Minecraft
+• I want cats (please)<br>
+• Coffee wakes me up by making me shit myself<br>
+• I think about how to build IRL things in Minecraft<br>
 • Hobbies: gaming, hiking, building
