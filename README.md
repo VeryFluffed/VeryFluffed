@@ -10,7 +10,7 @@ I love combining software, electrical, and mechanical aspects to create a tangib
 
 My main tools are SolidWorks CAD, PCB Designer Altium, and VS Code. My main languages are C++, Python, and MATLAB.
 
-I started making projects in 2025, and they are listed in my [LinkedIn](https://danhtran.org/)!
+I started making projects in 2025, and they are listed in my [Portfolio](https://danhtran.org/)!
 
 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/danhctran/)!
 
